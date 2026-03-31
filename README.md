@@ -1,7 +1,7 @@
 # Structures and Algorithms Labs
 
 ## Author
-Student: Your Name
+Student: Andriy Voloshchyk
 
 ## Description
 This repository contains laboratory works for the course "Data Structures and Algorithms".
